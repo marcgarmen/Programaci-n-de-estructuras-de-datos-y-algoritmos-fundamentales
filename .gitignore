@@ -1,0 +1,5 @@
+# Archivos de caché y metadatos que no vale la pena versionar
+.ccls-cache/
+.cache/
+.breakpoints
+*.blob
